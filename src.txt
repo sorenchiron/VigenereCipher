@@ -1,0 +1,93 @@
+man goes to doctor says he is depressed
+says he feels all alone in a threatening world
+where what lies ahead is vague and uncertain
+treatment is simple doctor says
+the great clown paliacci is in town tonight
+go and see him that would pick you up
+but doctor he says i am paliacci
+good joke everybody laugh roll on slam drum
+curtain
+nomatterhowhardyoutrytosavetheworld
+youwillfailbecause the world is not for you to save
+some times you got your heart scrambleed into pieces
+just because you dont understant the reason
+just be better to those you love
+the count on you the like you
+the want you to help out
+but it is perhaps not what you got in your mind
+you resist refuse or even refute them
+it is you who hurt others most
+and day after day you will find everybody hate you
+fear of you or even lie to you
+the day that people say
+the switch between ready tasks and awaiting tasks
+is quite significant how to run this
+you can download the source file here
+for ucos system
+the core of the operating system is the ciritical part of our system runtime
+first the operating system will enter critical condition
+when it cannot be interrupted during protection
+the goes the scheduling program
+you will find it interesting
+
+The 1951 USAF resolution test target, a classic test target used to determine
+spatial resolution of imaging sensors and imaging systems.
+The image spatial resolution is ¯rstly limited by the imaging sensors
+or the imaging acquisition device. Modern image sensor is typically a
+charge-coupled deveice (CCD) or a complementary metal-oxide-semiconductor
+(CMOS) active-pixel sensor. These sensors are typically arranged in a two-
+dimensional array to capture two-dimensional image signals. The sensor size
+or equivalently the number of sensor elements per unit area in the ¯rst place
+determines the spatial resolution of the image to capture. The higher density
+of the sensors, the higher spatial resolution possible of the imaging system. An
+imaging system with inadequate detectors will generate low resolution images
+with blocky e®ects, due to the aliasing from low spatial sampling frequency.
+In order to increase the spatial resolution of an imaging system, one straight
+forward way is to increase the sensor density by reducing the sensor size.
+However, as the sensor size decreases, the amount of light incident on each
+sensor also decreases, causing the so called shot noise. Also, the hardware cost
+of sensor increases with the increase of sensor density or correspondingly im-
+Image super-resolution: Historical overview and future challenges 5
+age pixel density. Therefore, the hardware limitation on the size of the sensor
+restricts the spatial resolution of an image that can be captured.
+While the image sensors limit the spatial resolution of the image, the image
+details (high frequency bands) are also limited by the optics, due to lens
+blurs (associated with the sensor point spread function (PSF)), lens aberration
+e®ects, aperture di®ractions and optical blurring due to motion. Constructing
+imaging chips and optical components to capture very high-resolution images
+is prohibitively expensive and not practical in most real applications, e.g.,
+widely used surveillance cameras and cell phone built-in cameras. Besides the
+cost, the resolution of a surveillance camera is also limited in the camera speed
+and hardware storage. In some other scenarios such as satellite imagery, it is
+di±cult to use high resolution sensors due to physical constraints. Another way
+to address this problem is to accept the image degradations and use signal
+processing to post process the captured images, to trade o® computational cost
+with the hardware cost. These techniques are speci¯cally referred as Super-
+Resolution (SR) reconstruction.
+Super-resolution (SR) are techniques that construct high-resolution (HR)
+images from several observed low-resolution (LR) images, thereby increasing
+the high frequency components and removing the degradations caused by the
+imaging process of the low resolution camera. The basic idea behind SR is to
+combine the non-redundant information contained in multiple low-resolution
+frames to generate a high-resolution image. A closely related technique with
+SR is the single image interpolation approach, which can be also used to
+increase the image size. However, since there is no additional information pro-
+vided, the quality of the single image interpolation is very much limited due to
+the ill-posed nature of the problem, and the lost frequency components cannot
+be recovered. In the SR setting, however, multiple lowresolution observations
+are available for reconstruction, making the problem better constrained. The
+non-redundant information contained in the these LR images is typically intro-
+duced by subpixel shifts between them. These subpixel shifts may occur due to
+uncontrolled motions between the imaging system and scene, e.g., movements
+of objects, or due to controlled motions, e.g., the satellite imaging system
+orbits the earth with prede¯ned speed and path.
+Each low-resolution frame is a decimated, aliased observation of the true
+scene. SR is possible only if there exists subpixel motions between these low
+resolution frames1, and thus the ill-posed upsampling problem can be better
+conditioned. Fig. 1.2 shows a simpli¯ed diagram describing the basic idea
+of SR reconstruction. In the imaging process, the camera captures several
+LR frames, which are downsampled from the HR scene with subpixel shifts
+between each other. SR construction reverses this process by aligning the LR
+observations to subpixel accuracy
+
+
